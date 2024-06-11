@@ -13,4 +13,4 @@ jobs:
           api_key: ${{ secrets.SOOS_API_KEY }}
           project_name: "GitHubActions-SBOM"
           api_url: 'https://qa-api.soos.io/api/'
-          sbom_path: "cyclonedx/alpine-baselayout.cdx.json"
+          sbom_path: "sdpx/tornado_v6.4.1.python.spdx.json"
