@@ -13,4 +13,4 @@ jobs:
           api_key: ${{ secrets.SOOS_API_KEY }}
           project_name: "IntegrationB"
           api_url: 'https://qa-api.soos.io/api/'
-          sbom_path: "actionpack_v7.2.0.beta2.ruby.spdx.json"
+          sbom_path: "spdx/actionpack_v7.2.0.beta2.ruby.spdx.json"
