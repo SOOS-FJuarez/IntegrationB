@@ -1,4 +1,3 @@
 # IntegrationB
-as
-o
+
  
